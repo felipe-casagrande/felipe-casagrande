@@ -1,3 +1,4 @@
+
 # 🙍‍♂️ Felipe Casagrande
 **` Desenvolvedor Backend`**
 
@@ -92,7 +93,6 @@ Me chamo Felipe Casagrande, tenho 20 anos e sou natural Rio de Janeiro. Atualmen
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-casagrande&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-casagrande&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&exclude_langs=Jupyter%20Notebook,HTML,CSS" 
 />
-
 
